@@ -3,3 +3,4 @@ class Users(Resource):
     pass
 
 api.add_resource(Students, '/students')  # '/users' is our entry point
+

@@ -30,6 +30,6 @@ for i in range(0, n):
 
 print("Details of all students are:")
 for student in class_list:
-    print("student {} details are: {}".format(class_list.index(student),student))
+    print("student {} details are: {}".format(class_list.index(student), student))
 
 
